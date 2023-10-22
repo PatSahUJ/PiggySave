@@ -1,2 +1,0 @@
-# PiggySave
-accounting WebApp
